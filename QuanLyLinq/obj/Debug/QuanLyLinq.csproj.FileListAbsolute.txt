@@ -1,0 +1,14 @@
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyLinq.csproj.AssemblyReference.cache
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyLinq.csproj.SuggestedBindingRedirects.cache
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyQuanCaPhe.LoginForm.resources
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyLinq.Properties.Resources.resources
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyLinq.csproj.GenerateResource.cache
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyLinq.csproj.CoreCompileInputs.cache
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\bin\Debug\QuanLyLinq.exe.config
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\bin\Debug\QuanLyLinq.exe
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\bin\Debug\QuanLyLinq.pdb
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyLinq.exe
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyLinq.pdb
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyQuanCaPhe.AccountlInformation.resources
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyQuanCaPhe.Admin.resources
+D:\repos\repos\QuanLyQuanCaPhe\QuanLyLinq\obj\Debug\QuanLyQuanCaPhe.TableManager.resources
